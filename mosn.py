@@ -129,7 +129,7 @@ def menuHelp():
 	else:
 		key = ''
 	menuHelp =	"╭━━━━━━━━━━━━━━━━━━━━━" + "\n" + \
-                "┃🇮🇩┃🇮🇩🇮🇩〔 Aditmadzs 〕🇮🇩🇮🇩" + "\n" + \
+                "┃🇮🇩┃🇮🇩🇮🇩〔 mosen 〕🇮🇩🇮🇩" + "\n" + \
                 "┃🇮🇩┃" + "\n" + \
                 "┃🍁┃━━🍁〔 Help Message 〕🍁━━" + "\n" + \
                 "┃🍁┃━━━━━🍁〔 Menu 〕🍁━━━━━━" + "\n" + \
@@ -396,7 +396,7 @@ def menuTranslate():
                        "┃🇮🇩┃ fil : Filipino" + "\n" + \
                        "┃🇮🇩┃ he : Hebrew" + "\n" + \
                        "╰━━〔 Jangan Typo 〕" + "\n" + "\n\n" + \
-					"Contoh : " + key + "tr-id Aditmadzs"
+					"Contoh : " + key + "tr-id masih.00"
 	return menuTranslate
 
 def clientBot(op):
