@@ -14,24 +14,25 @@ V2.1 last update::
 # Termux
 
 ```sh
-$ apt update
-$ apt upgrade
-$ apt install python
-$ pkg install python3
-$ apt install git
-$ git clone https://github.com/mohsen-bw/py3
-$ cd py3
-$ python -m pip install -r requirements.txt
-$ python Aditmadzs.py
+ apt update
+ apt upgrade
+ apt install python
+ pkg install python3
+ apt install git
+ git clone https://github.com/mohsen-bw/py3
+ cd py3
+ python -m pip install -r requirements.txt
+ apt upgrade
+ python mosn.py
 ```
 
 ## VPS
 
 ```sh
-$ git clone https://github.com/mohsen-bw/py3
-$ cd py3
-$ python3 -m pip install -r requirements.txt
-$ python Aditmadzs.py
+ git clone https://github.com/mohsen-bw/py3
+ cd py3
+ python3 -m pip install -r requirements.txt
+ python mosn.py
 ```
 
 ## Thanks To:
