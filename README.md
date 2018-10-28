@@ -2,13 +2,13 @@
 # ![logo](LINE-sm.png) LINE Python
 
 *LINE Messaging's private API*
-# mosen.bw
+#MOSEN.bw
 ![mosen.bw](https://github.com/mohsen-bw/py3/blob/master/333d%20copy.png)
 V2.1 last update::
 05/0/2018
 ----
 
-# JANGAN LUPA ADD [MOSEN.BW ](line.me/ti/p/~masih.00)
+# PLEASE ADD ME [MOSEN.BW ](line.me/ti/p/~masih.00)
 # SC Sementara Sewaktu Waktu Akan Di Update
 
 # Termux
