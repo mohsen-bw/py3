@@ -8,7 +8,7 @@ V2.1 last update::
 05/0/2018
 ----
 
-# JANGAN LUPA ADD [ADITMADZS ](line.me/ti/p/~masih.00)
+# JANGAN LUPA ADD [MOSEN.BW ](line.me/ti/p/~masih.00)
 # SC Sementara Sewaktu Waktu Akan Di Update
 
 # Termux
