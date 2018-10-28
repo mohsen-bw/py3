@@ -217,7 +217,7 @@ def menuHelp():
                 "┃📀┃ " + key + "SearchYoutube 「Search」" + "\n" + \
 				"┃📀┃〔 muhmursalind 〕" + "\n" + \
 				"┃📀┃〔 Zero-Cool404 〕" + "\n" + \
-				"╰━━━〔 BIG BOS: ©Aditmadzs™  〕"
+				"╰━━━〔 BIG BOS: ©mosen.bw™  〕"
 	return menuHelp
 
 def menuTextToSpeech():
