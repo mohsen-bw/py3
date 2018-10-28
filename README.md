@@ -5,7 +5,7 @@
 
 ----
 
-# JANGAN LUPA ADD [ADITMADZS BOT](line.me/ti/p/~botaditmadzs)
+# JANGAN LUPA ADD [ADITMADZS ](line.me/ti/p/~masih.00)
 # SC Sementara Sewaktu Waktu Akan Di Update
 
 # Termux
@@ -16,17 +16,17 @@ $ apt upgrade
 $ apt install python
 $ pkg install python3
 $ apt install git
-$ git clone https://github.com/Aditmadzs/Selfbotpy3
-$ cd Selfbotpy3
+$ git clone https://github.com/mohsen-bw/py3
+$ cd py3
 $ python -m pip install -r requirements.txt
-$ python3 Aditmadzs.py
+$ python Aditmadzs.py
 ```
 
 ## VPS
 
 ```sh
-$ git clone https://github.com/Aditmadzs/Selfbotpy3
-$ cd Selfbotpy3
+$ git clone https://github.com/mohsen-bw/py3
+$ cd py3
 $ python3 -m pip install -r requirements.txt
 $ python Aditmadzs.py
 ```
